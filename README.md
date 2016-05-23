@@ -2,8 +2,10 @@
 
 # contributor-data-services
 
-
+Contributor data services: experimental scripts and servers to support
+the mission of the contributor-data-pool.
 
 # Overview
 
-Provide experimental scripts and services to support https://github.com/geneontology/contributor-data-pool .
+Provide experimental scripts and services to support
+https://github.com/geneontology/contributor-data-pool .
